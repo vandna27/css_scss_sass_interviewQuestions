@@ -1,6 +1,6 @@
  ## CSS, SCSS and SASS Interview Questions
 
-1. ###What is the origin of CSS?
+1. ### What is the origin of CSS?
 
 Standard Generalized Markup Language marked the beginning of style sheets in 1980s.
 
